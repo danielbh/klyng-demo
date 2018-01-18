@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start-local": "klyng -n 8 index.js",
+    "local": "klyng -n 8 index.js",
     "start": "klyng -n 8 index.js -m machines.json",
     "beacon-up": "klyng --beacon-up",
     "beacon-down": "klyng --beacon-down",

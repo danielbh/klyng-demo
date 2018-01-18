@@ -3,7 +3,6 @@
     "max_procs": 4
   },
   "172.16.21.90": {
-    "max_procs": 4,
-    "passwd": 123456
+    "max_procs": 4
   }
 }
